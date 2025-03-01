@@ -15,7 +15,7 @@ from PIL import Image
 import io
 import json
 
-# Models
+# Modelss
 class AccessLevel(str, Enum):
     private = "private"
     shared = "shared"
